@@ -23,8 +23,8 @@ spring:
 
 envio:
   email:
-    remetente: detarefasagendador@gmail.com
-    nomeRemetente: 'Cauã'
+    remetente:
+    nomeRemetente:
 
 server:
   port: 8084
